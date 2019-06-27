@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "react-native-autoheight-webview@0.3.4",
+      "/Users/baadmin/Projects/mynet-mobile/mynet"
+    ]
+  ],
+  "_from": "react-native-autoheight-webview@0.3.4",
+  "_id": "react-native-autoheight-webview@0.3.4",
+  "_inBundle": false,
+  "_integrity": "sha512-chstGElDPRx1XIUOV4yMUTpyYyaXzWRtJi9F6Zl/FStpMWgWgbKBSVgqvycVSxHLbTGUQoCxEoDaUesPb14fNg==",
+  "_location": "/react-native-autoheight-webview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-autoheight-webview@0.3.4",
+    "name": "react-native-autoheight-webview",
+    "escapedName": "react-native-autoheight-webview",
+    "rawSpec": "0.3.4",
+    "saveSpec": null,
+    "fetchSpec": "0.3.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-autoheight-webview/-/react-native-autoheight-webview-0.3.4.tgz",
+  "_spec": "0.3.4",
+  "_where": "/Users/baadmin/Projects/mynet-mobile/mynet",
+  "author": {
+    "name": "iou90"
+  },
+  "bugs": {
+    "url": "https://github.com/iou90/react-native-autoheight-webview/issues"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "prop-types": "^15.5.10"
+  },
+  "description": "An auto height webview for React Native",
+  "files": [
+    "android/",
+    "autoHeightWebView/"
+  ],
+  "homepage": "https://github.com/iou90/react-native-autoheight-webview#readme",
+  "keywords": [
+    "react",
+    "native",
+    "autoheight",
+    "webview"
+  ],
+  "license": "ISC",
+  "main": "autoHeightWebView",
+  "name": "react-native-autoheight-webview",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iou90/react-native-autoheight-webview.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.4"
+}
